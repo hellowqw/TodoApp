@@ -1,0 +1,4 @@
+// 只能添加全局变量
+$main = #409EFF
+$blue = #a6c4fa
+$border = #DCDFE6

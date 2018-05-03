@@ -6,7 +6,6 @@ import App from './App'
 import router from './router/router'
 import Element from 'element-ui';
 import 'css/element-ui.css'
-import 'css/mixin.less'
 Vue.use(Element, { size: 'small' });
 Vue.config.productionTip = false
 // 访问首页时跳转'/index'
